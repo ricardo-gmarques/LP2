@@ -1,0 +1,10 @@
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.AssemblyReference.cache
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.Form1.resources
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.Properties.Resources.resources
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.GenerateResource.cache
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.exe.config
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.exe
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\bin\Debug\PTestesEventos.pdb
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.exe
+C:\Users\Angela\Desktop\Fatec\LPII\PTestesEventos\PTestesEventos\obj\Debug\PTestesEventos.pdb
